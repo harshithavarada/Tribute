@@ -1,0 +1,70 @@
+.about h2{
+    font-size:5rem;
+
+}
+.about{
+    font-weight:400;
+    font-family:'Times New Roman', Times, serif;
+    text-align:justify;
+    letter-spacing:1.2px;
+    line-height: 1.5;
+    margin-left:5%;
+    margin-right:5%;
+}
+.bio{
+    text-align:justify;
+    letter-spacing:1.2px;
+    line-height: 1.5;
+    margin-left:5%;
+}
+footer {
+    margin: 50px 0;
+  }
+  footer p {
+    text-align: end;
+  }
+  img{
+    border-radius:50%;
+    
+  }
+  .top h4{
+    text-align:end;
+    font-size:30px;
+    
+  }
+  .box{
+    background-color: antiquewhite;
+    border:10px solid black;
+   
+    
+  }
+  .head{
+    margin-top: 100%;
+    display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top:5%;
+    margin-left:5%;
+ 
+  }
+  .head h1{
+    
+    font-size:50px;
+    text-transform:uppercase;
+    font-weight:bold;
+    text-transform:uppercase;
+    letter-spacing:3.2px;
+  
+    
+   
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .bio ul{
+    margin-left:5%;
+  }
+  
+  
